@@ -1,0 +1,87 @@
+# depslib dependency file v1.0
+1704700877 source:c:\users\hp\documents\tubes std\tubes std\main.cpp
+	<iostream>
+	"Parents.h"
+	"Child.h"
+	"Relation.h"
+	"Additional.h"
+
+1704691033 source:c:\users\hp\documents\tubes std\tubes std\child.cpp
+	<iostream>
+	"Child.h"
+
+1704691033 c:\users\hp\documents\tubes std\tubes std\child.h
+	<iostream>
+
+1704648610 source:c:\users\hp\documents\tubes std\tubes std\parents.cpp
+	<iostream>
+	"Parents.h"
+
+1704648631 c:\users\hp\documents\tubes std\tubes std\parents.h
+	<iostream>
+
+1704691207 source:c:\users\hp\documents\tubes std\tubes std\relation.cpp
+	<iostream>
+	"Relation.h"
+
+1704691180 c:\users\hp\documents\tubes std\tubes std\relation.h
+	<iostream>
+	"Child.h"
+	"Parents.h"
+
+1704701488 source:c:\users\hp\documents\tubes std\tubes std\additional.cpp
+	<iostream>
+	"Additional.h"
+	"Parents.h"
+	"Child.h"
+	"Relation.h"
+
+1704649610 c:\users\hp\documents\tubes std\tubes std\additional.h
+	<iostream>
+	"Parents.h"
+	"Child.h"
+	"Relation.h"
+
+1704711894 source:e:\tubes std (2)\tubes std\tubes std\additional.cpp
+	<iostream>
+	"Additional.h"
+	"Parents.h"
+	"Child.h"
+	"Relation.h"
+
+1704711742 e:\tubes std (2)\tubes std\tubes std\additional.h
+	<iostream>
+	"Parents.h"
+	"Child.h"
+	"Relation.h"
+
+1704711742 e:\tubes std (2)\tubes std\tubes std\parents.h
+	<iostream>
+
+1704711742 e:\tubes std (2)\tubes std\tubes std\child.h
+	<iostream>
+
+1704711742 e:\tubes std (2)\tubes std\tubes std\relation.h
+	<iostream>
+	"Child.h"
+	"Parents.h"
+
+1704711742 source:e:\tubes std (2)\tubes std\tubes std\child.cpp
+	<iostream>
+	"Child.h"
+
+1704711742 source:e:\tubes std (2)\tubes std\tubes std\main.cpp
+	<iostream>
+	"Parents.h"
+	"Child.h"
+	"Relation.h"
+	"Additional.h"
+
+1704711742 source:e:\tubes std (2)\tubes std\tubes std\parents.cpp
+	<iostream>
+	"Parents.h"
+
+1704711742 source:e:\tubes std (2)\tubes std\tubes std\relation.cpp
+	<iostream>
+	"Relation.h"
+
